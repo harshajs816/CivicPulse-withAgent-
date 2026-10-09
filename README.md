@@ -24,6 +24,20 @@
 </p>
 
 ---
+## Citizen dashboard pages
+
+<img width="1897" height="907" alt="image" src="https://github.com/user-attachments/assets/85b98526-88af-489f-aff6-a732b427855c" />
+<img width="1887" height="895" alt="Screenshot 2026-10-09 194124" src="https://github.com/user-attachments/assets/e39cba61-d4de-4c4b-9643-577650767055" />
+<img width="1892" height="902" alt="Screenshot 2026-10-09 194209" src="https://github.com/user-attachments/assets/ff1f1536-fd2b-459d-bd35-b08b2b084f83" />
+<img width="1896" height="911" alt="Screenshot 2026-10-09 194242" src="https://github.com/user-attachments/assets/fff35b71-b5fc-4f31-ad1f-476dc34b93e5" />
+
+---
+## Some Admin dashboard pages
+<img width="1896" height="902" alt="Screenshot 2026-10-09 193610" src="https://github.com/user-attachments/assets/a7d83187-f110-4d90-97c2-766a7d0145f8" />
+<img width="1902" height="913" alt="Screenshot 2026-08-21 142641" src="https://github.com/user-attachments/assets/01678223-1f10-48ac-8242-576ef41515db" />
+
+
+
 
 ## 📌 Executive Summary
 
@@ -462,11 +476,7 @@ Please include a clear description of the change and any relevant testing detail
 
 ---
 
-## 📄 License
 
-Add the appropriate license information here after choosing a license and including its corresponding `LICENSE` file in the repository.
-
----
 
 ## 🌟 Project Vision
 
