@@ -31,8 +31,10 @@
 
 # Report complaint
 <img width="1887" height="895" alt="Screenshot 2026-10-09 194124" src="https://github.com/user-attachments/assets/e39cba61-d4de-4c4b-9643-577650767055" />
+
 # All Reports
 <img width="1892" height="902" alt="Screenshot 2026-10-09 194209" src="https://github.com/user-attachments/assets/ff1f1536-fd2b-459d-bd35-b08b2b084f83" />
+
 # Track your Complaints
 <img width="1896" height="911" alt="Screenshot 2026-10-09 194242" src="https://github.com/user-attachments/assets/fff35b71-b5fc-4f31-ad1f-476dc34b93e5" />
 
